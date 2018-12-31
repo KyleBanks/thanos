@@ -1,5 +1,7 @@
 # thanos
 
+[![GoDoc](https://godoc.org/github.com/KyleBanks/thanos?status.svg)](https://godoc.org/github.com/KyleBanks/thanos)&nbsp; 
+
 `thanos` is a simple little package that provides a `Snap` function, which accepts a slice and returns a subset containing half of the original elements, selected at random.
 
 ## Usage
